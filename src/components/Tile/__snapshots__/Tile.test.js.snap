@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<div
+  className="go2471620104 go713974525"
+  data-pos="5:5"
+>
+  <div>
+    child
+  </div>
+</div>
+`;
