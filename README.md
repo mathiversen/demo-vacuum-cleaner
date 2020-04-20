@@ -6,7 +6,9 @@
 -   Run: `npm start`
 -   Test: `npm run test`
 -   Visit: `localhost:1337`
--   Customize: `localhost:1337/?columns=15&rows=5&speed=100` (speed is ms)
+-   Optional customization: `localhost:1337/?columns=10&rows=10&speed=500` (speed is ms)
+
+![Assignment blueprint](robot.png 'Assignment blueprint')
 
 ## Assignment description
 
